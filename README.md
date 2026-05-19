@@ -29,7 +29,7 @@ Lors d'une fusion directe via **Get Data → From Folder**, Power Query importe 
 - Des **lignes vides** ou parasites se glissent en début de tableau
 - Les **colonnes portent des noms génériques** (Column1, Column2, …) au lieu des vrais en-têtes
 
-![Données avant correction](screenshoots/Data_befor.PNG)
+![Données avant correction](screenshoots/Data%20befor.PNG)
 
 ---
 
