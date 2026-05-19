@@ -73,7 +73,7 @@ Allez dans **Home → Remove Rows → Remove Top Rows**
 
 Dans la boîte de dialogue, entrez **2** (le nombre de lignes à supprimer avant les vrais en-têtes).
 
-![Spécifier le nombre de lignes à supprimer](screenshoots/2_rows_to_remove.PNG)
+![Spécifier le nombre de lignes à supprimer](screenshoots/2%20rows%20to%20remove.PNG)
 
 #### 3b — Utiliser la Première Ligne comme En-Têtes
 
@@ -81,7 +81,7 @@ Après suppression, la première ligne contient les vrais noms de colonnes. Appl
 
 > **Transform → Use First Row as Headers**
 
----
+---![Use First Row as Headers](screenshoots/use%20first%20row%20as%20header.PNG)
 
 ### Étape 4 — Détecter les Types de Données
 
@@ -119,15 +119,8 @@ Si un fichier a une colonne `Name` et un autre `name` ou `NAME`, Power Query les
 
 ---
 
-### Étape 6 — Résultat Final : Données Propres
 
-Après toutes les corrections, la requête **Data 2** affiche 180 lignes propres avec les bons en-têtes, sans lignes parasites.
-
-![Données après correction](screenshoots/Data%20after.PNG)
-
----
-
-### Étape 7 — Fermer et Charger
+### Étape 6 — Fermer et Charger
 
 Une fois satisfait du résultat dans Power Query Editor :
 
@@ -136,6 +129,13 @@ Une fois satisfait du résultat dans Power Query Editor :
 ![Fermer et charger](screenshoots/close%20and%20load.PNG)
 
 Les données fusionnées sont chargées dans une nouvelle feuille Excel sous forme de tableau structuré.
+
+---
+### Étape 7 — Résultat Final : Données Propres
+
+Après toutes les corrections, la requête **Data 2** affiche 180 lignes propres avec les bons en-têtes, sans lignes parasites.
+
+![Données après correction](screenshoots/Data%20after.PNG)
 
 ---
 
